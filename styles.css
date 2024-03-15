@@ -4,8 +4,10 @@ body{
 h1{
     text-align: center;
     color: #FDA403;
+    
 }
 p{
     color: white;
     font-size: 25px;
+    text-align: center;
 }
