@@ -1,1 +1,3 @@
-alert("This is an alert");
+function bootyStrap() {
+    alert("Great Content")
+  }
